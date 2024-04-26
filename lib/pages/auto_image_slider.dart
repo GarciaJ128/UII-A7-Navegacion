@@ -23,10 +23,10 @@ class _MyImageSliderState extends State<MyImageSlider> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: const Color(0xffe7dbe9),
+        backgroundColor: const Color(0xffd2bcd5),
         appBar: AppBar(
           title: const Text(
-            'Slider auto de imágenes',
+            'Libreria DenysTale Garcia',
             style: TextStyle(color: Colors.white),
           ),
           centerTitle: true,
